@@ -25,13 +25,12 @@ pipeline {
                 sh 'pwd'
             }
         }
-                stage('Deploy') {
+                stage('push') {
             steps {
-                echo 'Hello Deploy'
-                sh 'pwd'
+                echo 'Hello push'
+                sh 'dockerps'
               
             }
         }
     }
-    
-}
+}  
