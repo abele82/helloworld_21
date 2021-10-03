@@ -8,4 +8,4 @@
 <h1> Thank God for the second job, third job loading by God's grace</h1>
 <h1> Deploy on container using ansible</h1>
 <h1> Thank you God, I am starting at KR on the 12th of October</h1>
-<h1> To God be the glory</h1>
+<h1> To GOD be the glory</h1>
